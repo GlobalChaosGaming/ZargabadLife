@@ -1,0 +1,1 @@
+deletevehicle cop9Fort_Razorwire;

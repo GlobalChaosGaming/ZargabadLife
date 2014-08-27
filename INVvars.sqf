@@ -1,0 +1,12 @@
+INV_PLAYERLIST	        = playerarray; 
+INV_PLAYERSTRINGLIST    = playerstringarray;
+INV_CANDOILLEGAL        = isciv;
+INV_ROLESTRING          = format["%1", player]; 
+INV_CALL_CREATVEHICLE   = "vehdespawn.sqf";
+INV_MAX_ITEMS           = 999999;
+INV_MAX_DROPS	 	= 300;
+INV_PLAYERCOUNT         = count INV_PLAYERSTRINGLIST;
+INV_VehicleArray        = [];
+INV_ServerVclArray      = [];   
+INV_shortcuts           = true;
+INV_SperrenVerbotArray  = [[copbase1, 250],[sperrenverbot3, 30 ]];
